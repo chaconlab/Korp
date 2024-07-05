@@ -5,6 +5,9 @@ Please, cite our work if our tools or benchmarks become useful for your research
 
 López-Blanco J.R. and Chacón P. (2019) KORP: Knowledge-based 6D potential for fast protein and loop modeling. Bioinformatics 35 (17) 3013–3019. <a href="https://academic.oup.com/bioinformatics/article/35/17/3013/5289323"><img src="https://chaconlab.org/images/publications/pubmed.jpg" alt="" align="top" border="0" /></a> <a href="https://chaconlab.org/PDF/2019_bioinfo.pdf"><img src="https://chaconlab.org/images/publications/acrobaticon4.gif" alt="" border="0" /></a>
 
+## Source Code
+
+The complete source C++ code is under [sbg](sbg) directory (just run compile_korp.sh script). 
 
 ## Protein modeling
 
